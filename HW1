@@ -1,3 +1,1 @@
-import pandas as pd
-medals = pd.read_csv('/content/drive/MyDrive/olympic_medals.csv')
-medals.head() #Question 2
+
